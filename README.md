@@ -20,6 +20,6 @@ I'm a developer with strong focus on modern frontend technologies. My expertise 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/vietphomaique123/">
-    <img src="https://cdn2.fptshop.com.vn/unsafe/Uploads/images/tin-tuc/164679/Originals/facebook-la-gi-1.jpg" />
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </div>
