@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Nguyễn Việt</h1>
-<h3 align="center">A newbie Frontend Developer focusing on TypeScript & Reactjs</h3>
+<h3 align="center">A newbie FrontEnd and BackEnd Developer focusing on TypeScript & Reactjs</h3>
 
 I'm a developer with strong focus on modern frontend technologies. My expertise includes:
 - ⚛️ React.js for building dynamic user interfaces
