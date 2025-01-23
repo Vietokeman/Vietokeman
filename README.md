@@ -7,6 +7,7 @@ I'm a developer with strong focus on modern frontend technologies. My expertise 
 - 📘 TypeScript for type-safe development
 - 🎨 SASS/CSS for styling
 - 🔄 JavaScript
+- NodeJs - ExpressJS for BE development
 - Tool development: Visual Studio Code, Microsoft Visual Studio.
 
 <!-- GitHub Stats Card -->
