@@ -9,22 +9,19 @@ I'm a passionate developer with a strong focus on modern web technologies, speci
 #### Frontend  
 - 🌟 **Angular** (Reactive Forms, RxJS, Angular Material)  
 - 📜 **TypeScript, JavaScript (ES6+)**  
-- 🎨 **SCSS, Tailwind CSS, Bootstrap**  
+- 🎨 **SCSS, Tailwind CSS, Ant Design
 
 #### Backend  
-- 🏗️ **ASP.NET Core / .NET 6+**  
+- 🏗️ **ASP.NET Core / .NET 8+
 - 🔥 **Entity Framework Core** (EF Core)  
-- 🛠️ **RESTful APIs, WebSockets, gRPC**  
+- 🛠️ **RESTful APIs, WebSockets
 
 #### Database & Cloud  
-- 🗄️ **SQL Server, PostgreSQL**  
-- ☁️ **Azure, Firebase, AWS**  
-- 🗃️ **Redis, MongoDB**  
+- 🗄️ **SQL Server, PostgreSQL**
+- 🗃️  MongoDB**  
 
-#### DevOps & Tools  
-- 🐳 **Docker, Kubernetes**  
-- 🔄 **CI/CD (GitHub Actions, Azure DevOps, Jenkins)**  
-- 📂 **Git, GitHub, Bitbucket**  
+####  Tools  
+- 📂 **Git, GitHub, GitLab
 
 ### 🚀 Projects & Contributions  
 - ✅ **E-commerce Platform**: Built using Angular and .NET Core with integrated payment gateways.  
