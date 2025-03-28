@@ -1,14 +1,41 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Nguyễn Việt</h1>
-<h3 align="center">A newbie FrontEnd and BackEnd Developer focusing on TypeScript & Reactjs</h3>
+<h3 align="center">A newbie FullStack Developer focusing on Angular & Asp.net</h3>
 
-I'm a developer with strong focus on modern frontend technologies. My expertise includes:
-- ⚛️ React.js for building dynamic user interfaces
-- 📘 TypeScript for type-safe development
-- 🎨 SASS/CSS for styling
-- 🔄 JavaScript
-- NodeJs - ExpressJS for BE development
-- Tool development: Visual Studio Code, Microsoft Visual Studio.
+## 🛠️ About Me  
+I'm a passionate developer with a strong focus on modern web technologies, specializing in **Angular** for frontend development and **ASP.NET Core** for backend services. With a keen interest in building scalable and efficient applications, I strive to create seamless user experiences with robust backend architectures.  
+
+### 🔥 My Tech Stack  
+#### Frontend  
+- 🌟 **Angular** (Reactive Forms, RxJS, Angular Material)  
+- 📜 **TypeScript, JavaScript (ES6+)**  
+- 🎨 **SCSS, Tailwind CSS, Bootstrap**  
+
+#### Backend  
+- 🏗️ **ASP.NET Core / .NET 6+**  
+- 🔥 **Entity Framework Core** (EF Core)  
+- 🛠️ **RESTful APIs, WebSockets, gRPC**  
+
+#### Database & Cloud  
+- 🗄️ **SQL Server, PostgreSQL**  
+- ☁️ **Azure, Firebase, AWS**  
+- 🗃️ **Redis, MongoDB**  
+
+#### DevOps & Tools  
+- 🐳 **Docker, Kubernetes**  
+- 🔄 **CI/CD (GitHub Actions, Azure DevOps, Jenkins)**  
+- 📂 **Git, GitHub, Bitbucket**  
+
+### 🚀 Projects & Contributions  
+- ✅ **E-commerce Platform**: Built using Angular and .NET Core with integrated payment gateways.  
+- 📊 **Admin Dashboard**: Developed a responsive dashboard using Angular Material and ASP.NET Web API.  
+- 🔗 **Authentication System**: Implemented OAuth2, JWT authentication, and role-based access control.  
+
+### 📚 Learning & Growth  
+I am constantly learning new technologies and improving my development skills. Currently exploring:  
+- **Microservices Architecture** 🏗️  
+- **gRPC & SignalR for real-time applications** 📡  
+- **Advanced Performance Optimization** ⚡  
 
 <!-- GitHub Stats Card -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vietokeman&theme=dark&show_icons=true&count_private=true)
