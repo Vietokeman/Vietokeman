@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Nguyễn Việt</h1>
-<h3 align="center">A newbie FullStack Developer focusing on Angular & Asp.net</h3>
+<h3 align="center">A newbie FullStack Developer focusing on NextJs & Asp.net</h3>
 
 ## 🛠️ About Me  
 I'm a passionate developer with a strong focus on modern web technologies, specializing in **Angular** for frontend development and **ASP.NET Core** for backend services. With a keen interest in building scalable and efficient applications, I strive to create seamless user experiences with robust backend architectures.  
