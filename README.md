@@ -153,47 +153,6 @@ const vietokeman = {
 
 ---
 
-<div align="center">
-
-## 🏆 GitHub Trophies 🏆
-
-<img src="https://github-profile-trophy.vercel.app/?username=Vietokeman&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🛣️ Learning Roadmap 🛣️
-
-</div>
-
-```mermaid
-graph LR
-    A[2023<br/>.NET Core] -->|🚀| B[2024<br/>Next.js FullStack]
-    B -->|🚀| C[2024<br/>CQRS + Clean Architecture]
-    C -->|🚀| D[2025<br/>Kafka + Microservices]
-    D -->|🔥 Current| E[Kubernetes + Cloud]
-    E --> F[Future<br/>High Scalability System]
-
-    style A fill:#4CAF50
-    style B fill:#4CAF50
-    style C fill:#2196F3
-    style D fill:#FF9800
-    style E fill:#9C27B0
-```
-
----
-
-<div align="center">
-
-## 💭 Dev Wisdom 💭
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Dev Quote"/>
-
-</div>
-
 ---
 
 <div align="center">
