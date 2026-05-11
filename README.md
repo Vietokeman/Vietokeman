@@ -147,8 +147,6 @@ const vietokeman = {
   <img src="https://streak-stats.demolab.com/?user=Vietokeman&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C9D1D9" alt="GitHub Streak" />
 </div>
 
-<img src="https://streak-stats.demolab.com/?user=Vietokeman&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=C9D1D9" alt="GitHub Streak" />
-
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vietokeman&theme=tokyonight" alt="GitHub Profile Summary" />
 </div>
