@@ -1,6 +1,6 @@
 <div align="center">
 
-#Nguyễn Việt | FullStack Developer 
+# Nguyễn Việt | FullStack Developer 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;FullStack+Developer+%7C+.NET+%2B+Next.js;Building+Scalable+%26+High+Performance+Systems" alt="Typing SVG" />
 
